@@ -812,6 +812,9 @@ html {
     .service-box-2.line-1::before {
         top: 245px;
     }
+    .contact-box-1 h4 {
+        line-height: 40px;
+    }
     .banner-box-1 h1 {
         font-size: 38px;
     }
